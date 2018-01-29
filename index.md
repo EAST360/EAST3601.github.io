@@ -4,7 +4,8 @@ You can use the [editor on GitHub](https://github.com/EAST360/EAST3601.github.io
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 360
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/vwpok" ></script>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
